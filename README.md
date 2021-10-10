@@ -1,2 +1,2 @@
 # css-design 
-R responsive css 
+responsive css 
