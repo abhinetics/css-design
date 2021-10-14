@@ -1,2 +1,2 @@
 # css-design 
-responsive css boxes
+responsive css boxes and hover effect
